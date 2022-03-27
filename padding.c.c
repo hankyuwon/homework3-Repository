@@ -1,6 +1,6 @@
 #include <stdio.h>
 
-struct studentP{
+struct student{
     char lastName[13];  /* 13 bytes */
     int studentId;  /* 4 bytes */
     short grade;  /* 2 bytes */
